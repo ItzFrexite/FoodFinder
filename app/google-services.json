@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "915666915180",
+    "firebase_url": "https://foodfinderneal.firebaseio.com",
+    "project_id": "foodfinderneal",
+    "storage_bucket": "foodfinderneal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915666915180:android:48b2f6ac9296606e4b2d49",
+        "android_client_info": {
+          "package_name": "com.crosby.foodfinderapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915666915180-7olq7nfva81uc65sfo261s5jmi86fsnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crosby.foodfinderapi",
+            "certificate_hash": "001840e9c3a7c7e85b9e26e540a71635bcb3021c"
+          }
+        },
+        {
+          "client_id": "915666915180-5b47otr55r0a12oq9estp8bbq5p1lpci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlowspc6qJxKiGvfnlSAUaiRBEvA46fIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915666915180-5b47otr55r0a12oq9estp8bbq5p1lpci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
